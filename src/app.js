@@ -1,6 +1,6 @@
 /* eslint-disable */
 import "./style.css";
-var who = [
+const who = [
   "My dog",
   "My sister",
   "My grandma",
@@ -10,7 +10,7 @@ var who = [
   "My neighbor",
   "A ghost"
 ];
-var action = [
+const action = [
   "ate",
   "peed",
   "broke",
@@ -20,14 +20,14 @@ var action = [
   "hid",
   "spilled hot chocolate on"
 ];
-var what = [
+const what = [
   "my homeworks",
   "my laptop",
   "the presentation",
   "my code",
   "my class project"
 ];
-var when = [
+const when = [
   "before the class",
   "during breakfast",
   "while I was sleeping",
