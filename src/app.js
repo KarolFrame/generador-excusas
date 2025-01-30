@@ -46,7 +46,7 @@ function printExcuse() {
     when[Math.floor(Math.random() * when.length)] +
     ".";
 
-  document.body.querySelector("#excuse").innerHTML = excuse;
+  document.querySelector("#excuse").innerHTML = excuse;
 }
 
 window.onload = function() {
